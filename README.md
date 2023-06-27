@@ -1,6 +1,6 @@
 # two-time-pad-attack
 
-This Python script demonstrates how to bypass an one-time password encryption when the password has been reused.
+This Python script demonstrates how to bypass the one-time password encryption when the password has been reused.
 
 If the attacker has access to two (or more) ciphertexts encyrpted with the same key it's possible to guess words present in one of the plaintexts and (partially) decrypt the other ciphertexts.
 
